@@ -1,0 +1,2 @@
+# plantower_g5st_python
+攀藤G5ST的传感器的数据获取程序
